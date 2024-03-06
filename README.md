@@ -20,6 +20,7 @@
 - SASS
 
 ## Firebase screenshot
+![image](https://github.com/YaroslavYarynych/map-project/assets/63805271/7fcdf080-a7c3-4fa0-b8ce-9c94bf844a0e)
 
 ## Setup
 
